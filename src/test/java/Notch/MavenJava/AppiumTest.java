@@ -11,6 +11,12 @@ public class AppiumTest {
 		System.out.println("It is an android Test");
 	}
 	
+
+	@Test
+	public void AndroidaApp() {
+		System.out.println("It is an android Test");
+	}
+	
 	@Test
 	public void IOSApp() {
 		System.out.println("It is an IOS Test");

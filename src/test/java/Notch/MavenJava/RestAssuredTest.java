@@ -23,4 +23,10 @@ public class RestAssuredTest {
 	public void oneFA() {
 		System.out.println("It is a 1FATest");
 	}
+	
+	
+	@Test
+	public void onefFA() {
+		System.out.println("It is a 1FATest");
+	}
 }

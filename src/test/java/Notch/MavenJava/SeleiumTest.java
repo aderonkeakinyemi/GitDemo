@@ -13,5 +13,10 @@ public class SeleiumTest {
 	public void selPython() {
 		System.out.println("It is a sel Python Test");
 	}
+	
+	@Test
+	public void sellPython() {
+		System.out.println("It is a sel Python Test");
+	}
 
 }
